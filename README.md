@@ -1,16 +1,26 @@
-## Hi there 👋
+👋 ¡Hola! Soy Karla, QA Engineer apasionada por la calidad, los detalles y la mejora continua. Me encanta explorar nuevas herramientas y metodologías para asegurar productos confiables y eficientes.
 
-<!--
-**Karla-tripleten/Karla-tripleten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠 Herramientas y tecnologías:
+- Pruebas manuales y automatizadas
+- Selenium, Python
+- API
+- Postman
+- PyCharm
+- Back-end y Front-end
+- SQL para validación de datos
+- Git, GitHub
+- Metodologías ágiles (Scrum)
 
-Here are some ideas to get you started:
+🌱 Actualmente aprendiendo:
+- Mejorando en la automatización de pruebas con Python
+- Pruebas con AI (machine learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤝 ¿Quieres colaborar?
+¡Siempre abierta a proyectos interesantes! Puedes contactarme por LinkedIn o mi correo: karlamunozugalde@gmail.com
+¡Estaria encantada si me invitan a proyectos con AI, es una herramienta que tiene mucho potencial!
+
+🎮 En mi tiempo libre: juego videojuegos (RPG, FPS y MMORPG), cuido de mis mascotas y sigo aprendiendo nuevas habilidades. 
+
+
+
+
